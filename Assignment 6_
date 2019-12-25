@@ -1,0 +1,29 @@
+QUESTION 1 
+OOP (Object oriented programmimg) is refer to a type of programming language that works on concept of Objects and classes opposite to procedural programming. OOP have four basic pillars named Inheritance, abstraction, encapsulation and polymorphism. which make OOP different to other prcedural languages.
+
+Question 2
+There are multiple advantages of OOP some of them are listed below,
+(1) In OOp programming code reusability is one of the main factor.
+(2) Programs written in OOP based languages are easy to understand as they create objects(like real world entity).
+(3) Programs written in OOP languages are easy to understand, enhance and develop.
+(4) OOP provide data hiding so it is mo secure.
+
+Question 3 
+Functions:
+Functions are those who we can call directly without creating their objects.
+
+Mehtods:
+Methods are those who we can call by creating their objects.
+
+Question 4
+Class:
+class is a blueprint that hold data member and functions. for example consider human as a class, human can walk, talk, sleep.
+
+Objects: 
+An object is an instance of class, when class is created no memory should be allocated but as object is created memory is allocated.
+
+Attribute:
+Attribute are properties of class, like human can walk, human can talk etc.
+
+Behaviour:
+Behaviour is define as how class react when it is used by another object.as my above example of human, human is waling slowly or fast is a behaviour of class.
